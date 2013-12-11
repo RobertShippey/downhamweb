@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>Name</key>
+            <string>GGSL</string>
+            <key>Image</key>
+            <string>http://www.downhamweb.co.uk/wp/wp-content/uploads/2012/11/GGSL-020913-480x230.png</string>
+            <key>Website</key>
+            <string>http://www.ggsl.co.uk/</string>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>Ashton Roberts</string>
+            <key>Image</key>
+            <string>http://www.downhamweb.co.uk/wp/wp-content/uploads/2012/11/Ashton-Roberts-160713-480x230.png</string>
+            <key>Website</key>
+            <string>http://ashtonroberts.co.uk/</string>
+        </dict>
+        <dict>
+            <key>Name</key>
+            <string>J.D&apos;Signs</string>
+            <key>Image</key>
+            <string>http://www.downhamweb.co.uk/wp/wp-content/uploads/2012/11/J.DSigns-210813-480x230.jpg</string>
+            <key>Website</key>
+            <string>http://www.jdsigns.net/</string>
+        </dict>
+    </array>
+</plist>

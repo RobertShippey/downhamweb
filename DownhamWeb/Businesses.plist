@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>A T Johnson</string>
+		<key>Description</key>
+		<string>AT Johnson’s tool &amp; hardware shop has a huge range of tools, workshop &amp; garage equipment for mechanics, carpenters, plumbers and DIY enthusiasts. Plus lots of great home and garden-ware.</string>
+		<key>Category</key>
+		<string>Wholesalers &amp; Suppliers</string>
+		<key>PhoneNo</key>
+		<string>01366 383407</string>
+		<key>Lat</key>
+		<string>52.6031</string>
+		<key>Long</key>
+		<string>0.3741</string>
+		<key>email</key>
+		<string>enquiries@atjohnson.co.uk</string>
+		<key>Address</key>
+		<string>A.T Johnson Motor Factors
+Paradise Road
+Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Accent Fresh</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Food Suppliers</string>
+		<key>PhoneNo</key>
+		<string>01366 386633</string>
+		<key>Lat</key>
+		<string>52.5981</string>
+		<key>Long</key>
+		<string>0.3615</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>St Johns Way
+Downham Market
+Norfolk
+PE38 0QQ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Anglia Computer Solutions Ltd</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Computing</string>
+		<key>PhoneNo</key>
+		<string>01366 387970</string>
+		<key>Lat</key>
+		<string>52.603</string>
+		<key>Long</key>
+		<string>0.3774</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>9 Market Place
+Downham Market
+Norfolk
+PE38 9DG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Arbuckles</string>
+		<key>Description</key>
+		<string>The first Arbuckles opened in 1983 originally as Fatty Arbuckles and soon established itself as the restaurant of choice for those seeking quality American food. With John and Maxine Murphy at the helm, Arbuckles in Downham Market today has become a more refined restaurant, yet remains a welcoming dining place to meet family and friends and enjoy even tastier American classic meals including grills &amp; burgers as well as an expanded selection of healthier dishes including pasta, light bites and scrummy salads.</string>
+		<key>Category</key>
+		<string>Restaurants</string>
+		<key>PhoneNo</key>
+		<string>01366 388881</string>
+		<key>Lat</key>
+		<string>52.5986</string>
+		<key>Long</key>
+		<string>0.3984</string>
+		<key>email</key>
+		<string>info@arbuckles.biz</string>
+		<key>Address</key>
+		<string>A10 Stonecross
+Downham Market
+Norfolk
+PE38 9LS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ashton Roberts</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Property Services</string>
+		<key>PhoneNo</key>
+		<string>01366 388991</string>
+		<key>Lat</key>
+		<string>52.6034</string>
+		<key>Long</key>
+		<string>0.3782</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>38 High Street
+Downham Market
+Norfolk
+PE38 9HH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Barker DBS</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 382525</string>
+		<key>Lat</key>
+		<string>52.6026</string>
+		<key>Long</key>
+		<string>0.3694</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>The Green
+Downham Market
+Norfolk
+PE38 9DY</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Barry L Hawkins</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>NULL</string>
+		<key>PhoneNo</key>
+		<string>01366 387180</string>
+		<key>Lat</key>
+		<string>52.6046</string>
+		<key>Long</key>
+		<string>0.3797</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Barry Hawkins
+15 Lynn Road
+Downham Market
+Norfolk
+PE38 9NL</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Beau Orchid</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>NULL</string>
+		<key>PhoneNo</key>
+		<string>07786 363739</string>
+		<key>Lat</key>
+		<string>52.6365</string>
+		<key>Long</key>
+		<string>0.3644</string>
+		<key>email</key>
+		<string>admin@beauorchid.co.uk</string>
+		<key>Address</key>
+		<string>Stow Bridge
+King's Lynn
+Norfolk
+PE34 3PP</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Beds of Paradise</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 384412</string>
+		<key>Lat</key>
+		<string>52.6038</string>
+		<key>Long</key>
+		<string>0.3785</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>1 Paradise Road
+Downham Market
+Norfolk
+PE38 9HS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bex Photography</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Photography</string>
+		<key>PhoneNo</key>
+		<string>01366 383430</string>
+		<key>Lat</key>
+		<string>52.6066</string>
+		<key>Long</key>
+		<string>0.3855</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>7 Tarragon
+Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bluebells Florist</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Florists</string>
+		<key>PhoneNo</key>
+		<string>01366 388418</string>
+		<key>Lat</key>
+		<string>52.6025</string>
+		<key>Long</key>
+		<string>0.3776</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>The Old Hall
+47 Priory Road
+Downham Market
+Norfolk
+PE38 9UJ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bound 2 Bounce</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Event Suppliers</string>
+		<key>PhoneNo</key>
+		<string>08002 335050</string>
+		<key>Lat</key>
+		<string>52.614</string>
+		<key>Long</key>
+		<string>0.8864</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>C &amp; J Electrical</string>
+		<key>Description</key>
+		<string>Satellite and TV Specialists. Installation, Service, Repair and Delivery. Also white goods such as cookers, washing machines, fridge freezers and small appliances.</string>
+		<key>Category</key>
+		<string>Electrical</string>
+		<key>PhoneNo</key>
+		<string>01366 388025</string>
+		<key>Lat</key>
+		<string>52.6032</string>
+		<key>Long</key>
+		<string>0.3781</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>35 High Street
+Downham Market
+Norfolk
+PE38 9HF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cannon Tyres</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Automotive</string>
+		<key>PhoneNo</key>
+		<string>01366 389777</string>
+		<key>Lat</key>
+		<string>52.6035</string>
+		<key>Long</key>
+		<string>0.3786</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Cannon Tyres
+2 Church Road
+Downham Market
+Norfolk
+PE38 9HF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Castle Hotel</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pubs</string>
+		<key>PhoneNo</key>
+		<string>01366 384312</string>
+		<key>Lat</key>
+		<string>52.6032</string>
+		<key>Long</key>
+		<string>0.378</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>High Street
+Downham Market
+Norfolk
+PE38 9HF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Central Tyres</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Automotive</string>
+		<key>PhoneNo</key>
+		<string>01366 382713</string>
+		<key>Lat</key>
+		<string>52.6055</string>
+		<key>Long</key>
+		<string>0.3653</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Farfield Road
+Downham Market
+Norfolk
+PE38 9ET</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Charmed Interiors</string>
+		<key>Description</key>
+		<string>Charmed Interiors is the place to come for soft furnishings, gifts and homeware. Meanwhile the Charmed Interiors Tearooms offer a range of homemade cakes, teas and coffee and light lunches.</string>
+		<key>Category</key>
+		<string>Gifts &amp; Shopping</string>
+		<key>PhoneNo</key>
+		<string>01366 384127</string>
+		<key>Lat</key>
+		<string>52.6036</string>
+		<key>Long</key>
+		<string>0.3615</string>
+		<key>email</key>
+		<string>info@charmed-interiors.co.uk</string>
+		<key>Address</key>
+		<string>The Hythe
+Downham Market
+Norfolk
+PE38 0AE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cheryls Clip &amp; Cut</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pets</string>
+		<key>PhoneNo</key>
+		<string>01353 862204</string>
+		<key>Lat</key>
+		<string>52.4601</string>
+		<key>Long</key>
+		<string>0.2979</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>6 Monkswood
+Ely
+Cambridgeshire
+CB6 1JD</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Chimes Jewellery</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Jewellery</string>
+		<key>PhoneNo</key>
+		<string>01366 382377</string>
+		<key>Lat</key>
+		<string>52.607</string>
+		<key>Long</key>
+		<string>0.4338</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>8 Market Place
+Downham Market
+Norfolk
+PE38 9DG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Chris Brown - Body Repair</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Automotive</string>
+		<key>PhoneNo</key>
+		<string>01366 386608</string>
+		<key>Lat</key>
+		<string>52.599</string>
+		<key>Long</key>
+		<string>0.3656</string>
+		<key>email</key>
+		<string>cbbodyrepairs@btconnect.com</string>
+		<key>Address</key>
+		<string>Sovereign Way
+Downham Market
+Norfolk
+PE38 9SW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Church Farm Stow Bardolph Rare Breeds Centre</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Leisure &amp; Travel</string>
+		<key>PhoneNo</key>
+		<string>01366 382163</string>
+		<key>Lat</key>
+		<string>52.6252</string>
+		<key>Long</key>
+		<string>0.404</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Stow Bardolph
+King's Lynn
+Norfolk
+PE34 3HT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Claws N Paws</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pets</string>
+		<key>PhoneNo</key>
+		<string>01366 388952</string>
+		<key>Lat</key>
+		<string>52.6078</string>
+		<key>Long</key>
+		<string>0.3667</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Unit 5
+Downham Market
+Norfolk
+PE38 9ET</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Clever Clogs Nursery</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>NULL</string>
+		<key>PhoneNo</key>
+		<string>01366 383337</string>
+		<key>Lat</key>
+		<string>52.6017</string>
+		<key>Long</key>
+		<string>0.3854</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Howdale Community Centre
+Downham Market
+Norfolk
+PE38 9AH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Clinical Psychology Service</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Medical - Dental</string>
+		<key>PhoneNo</key>
+		<string>07544 601942</string>
+		<key>Lat</key>
+		<string>52.596</string>
+		<key>Long</key>
+		<string>0.3804</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Denver
+Downham Market
+Norfolk
+PE38 0DG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Crosskeys Riverside House</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Leisure &amp; Travel</string>
+		<key>PhoneNo</key>
+		<string>01366 387777</string>
+		<key>Lat</key>
+		<string>52.5623</string>
+		<key>Long</key>
+		<string>0.3894</string>
+		<key>email</key>
+		<string>xkeyshouse@aol.com</string>
+		<key>Address</key>
+		<string>Crosskeys Riverside House
+Bridge St
+Hilgay
+Downham Market
+Norfolk
+PE38 0LD</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Custom Clean</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 388556</string>
+		<key>Lat</key>
+		<string>52.6047</string>
+		<key>Long</key>
+		<string>0.385</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Buena Vista
+Orchard Close
+Downham Market
+Norfolk
+PE38 9LW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>D &amp; H Harrod Coaches</string>
+		<key>Description</key>
+		<string>Our large fleet of coaches for hire caters for daily excursions, private hire, British and continental holidays, airports &amp; ferry runs, weddings, school trips, theatre trips and much, much more!</string>
+		<key>Category</key>
+		<string>Private Coach Hire</string>
+		<key>PhoneNo</key>
+		<string>01366 381111</string>
+		<key>Lat</key>
+		<string>52.6057</string>
+		<key>Long</key>
+		<string>0.4069</string>
+		<key>email</key>
+		<string>info@harrodscoaches.co.uk</string>
+		<key>Address</key>
+		<string>Bexwell Aerodrome
+Bexwell
+Downham Market
+Norfolk
+PE38 9LU</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dave Norman</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Health and Beauty</string>
+		<key>PhoneNo</key>
+		<string>01366 384396</string>
+		<key>Lat</key>
+		<string>52.6066</string>
+		<key>Long</key>
+		<string>0.3855</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dents of Hilgay</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 385661</string>
+		<key>Lat</key>
+		<string>52.5572</string>
+		<key>Long</key>
+		<string>0.3679</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Steels Drove
+Hilgay
+Downham Market
+Norfolk
+PE38 0QH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Denver Golf Club</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Leisure &amp; Travel</string>
+		<key>PhoneNo</key>
+		<string>01366 385716</string>
+		<key>Lat</key>
+		<string>52.5841</string>
+		<key>Long</key>
+		<string>0.3604</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Sluice Road
+Denver
+Downham Market
+Norfolk
+PE38 0EG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Denver Windmill</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Leisure &amp; Travel</string>
+		<key>PhoneNo</key>
+		<string>01366 384010</string>
+		<key>Lat</key>
+		<string>52.584</string>
+		<key>Long</key>
+		<string>0.3606</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Denver Windmill
+Sluice Road
+Denver
+Downham Market
+Norfolk
+PE38 0EG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>DH Signs</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Sign Writers</string>
+		<key>PhoneNo</key>
+		<string>01366 387362</string>
+		<key>Lat</key>
+		<string>52.599</string>
+		<key>Long</key>
+		<string>0.3661</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Unit C 
+Downham Market
+Norfolk
+PE38 9SW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Downham Cafe</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Food</string>
+		<key>PhoneNo</key>
+		<string>01366 381114</string>
+		<key>Lat</key>
+		<string>52.6028</string>
+		<key>Long</key>
+		<string>0.3778</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>13 Market Place
+Downham Market
+Norfolk
+PE38 9DF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Downham Garden Centre</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 382384</string>
+		<key>Lat</key>
+		<string>52.6027</string>
+		<key>Long</key>
+		<string>0.3698</string>
+		<key>email</key>
+		<string>info@downhamgardencentre.co.uk</string>
+		<key>Address</key>
+		<string>14 Railway Road
+Downham Market
+Norfolk
+PE38 9EB</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Downham Hypnotherapy</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Health and Beauty</string>
+		<key>PhoneNo</key>
+		<string>01366 383277</string>
+		<key>Lat</key>
+		<string>52.6016</string>
+		<key>Long</key>
+		<string>0.3783</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>19 London Rd
+Downham Market
+Norfolk
+PE38 9AW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dr Ian Mallandain - Downham Cognitive Behavioural Therapy</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Medical - Dental</string>
+		<key>PhoneNo</key>
+		<string>01366 383840</string>
+		<key>Lat</key>
+		<string>52.608</string>
+		<key>Long</key>
+		<string>0.3838</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Complementary Health Clinic
+93 Lynn Road
+Downham Market
+Norfolk
+PE38 9QE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>E M Painter &amp; Decorator</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Interiors and Decorating</string>
+		<key>PhoneNo</key>
+		<string>07926 501253</string>
+		<key>Lat</key>
+		<string>52.6093</string>
+		<key>Long</key>
+		<string>0.3912</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>19 Rosemary Way
+Downham Market
+Norfolk
+PE38 9UB</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Edwards Sandwich Bar</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Food</string>
+		<key>PhoneNo</key>
+		<string>01366 383851</string>
+		<key>Lat</key>
+		<string>52.6024</string>
+		<key>Long</key>
+		<string>0.378</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>17a High St
+Downham Market
+Norfolk
+PE38 9DA</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Elizabeth The Florist</string>
+		<key>Description</key>
+		<string>Whatever the occasion, Elizabeth the Florist has an excellent range of top quality, hand crafted flower designs, bouquets and arrangements to suit.</string>
+		<key>Category</key>
+		<string>Florists</string>
+		<key>PhoneNo</key>
+		<string>01366 384414</string>
+		<key>Lat</key>
+		<string>52.6028</string>
+		<key>Long</key>
+		<string>0.3753</string>
+		<key>email</key>
+		<string>info@floristdownhammarket.co.uk</string>
+		<key>Address</key>
+		<string>23 Bridge Street
+Downham Market
+Norfolk
+PE38 9DW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Evergreen Sheds</string>
+		<key>Description</key>
+		<string>Evergreen Sheds is based on the belief that customers' needs are of the utmost importance. Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.    We would welcome the opportunity to earn your trust and deliver you the best service in the industry.</string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 382497</string>
+		<key>Lat</key>
+		<string>52.6035</string>
+		<key>Long</key>
+		<string>0.3664</string>
+		<key>email</key>
+		<string>evergreensheds@gmail.com</string>
+		<key>Address</key>
+		<string>Evergreen House, Railway Road
+Downham Market
+Norfolk
+PE38 9DA</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fish Window Cleaning</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01945 870670</string>
+		<key>Lat</key>
+		<string>52.6099</string>
+		<key>Long</key>
+		<string>0.3911</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Downham Market
+Norfolk
+PE38 9UE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Flexible Language Tuition</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Tuition</string>
+		<key>PhoneNo</key>
+		<string>01366 381445</string>
+		<key>Lat</key>
+		<string>52.6044</string>
+		<key>Long</key>
+		<string>0.3752</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Methodist Church
+Paradise Road
+Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fraser Dawbarns</string>
+		<key>Description</key>
+		<string>Expert Solicitors in Kings Lynn, Wisbech, Downham Market and March  Fraser Dawbarns Solicitors has developed an excellent reputation for providing quality, no-nonsense advice to businesses, families and individuals across East Anglia and beyond. With offices in Wisbech, King's Lynn, Downham Market and March, the firm is dedicated to client care and provides a client charter which includes same day response and no hidden costs.</string>
+		<key>Category</key>
+		<string>Legal Services</string>
+		<key>PhoneNo</key>
+		<string>01366 383171</string>
+		<key>Lat</key>
+		<string>52.6008</string>
+		<key>Long</key>
+		<string>0.3791</string>
+		<key>email</key>
+		<string>info@fraserdawbarns.com</string>
+		<key>Address</key>
+		<string>29 London Road
+Downham Market
+Norfolk
+PE38 9AS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Freddies Deli</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Food</string>
+		<key>PhoneNo</key>
+		<string>01366 382083</string>
+		<key>Lat</key>
+		<string>52.6036</string>
+		<key>Long</key>
+		<string>0.3782</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>50 High Street
+Downham Market
+Norfolk
+PE38 9HH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Glass &amp; Glazing Solutions</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Windows and Glazing</string>
+		<key>PhoneNo</key>
+		<string>01366 381567</string>
+		<key>Lat</key>
+		<string>52.5989</string>
+		<key>Long</key>
+		<string>0.3657</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Unit F, Sovereign Way
+Downham Market
+Norfolk
+PE38 9SW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Goldline Pest Control</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>07858 150628</string>
+		<key>Lat</key>
+		<string>52.6073</string>
+		<key>Long</key>
+		<string>0.3813</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Cherry Cottage
+St. Clements Dr
+Downham Market
+Norfolk
+PE38 9PP</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Grey Goose Archery</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Leisure &amp; Travel</string>
+		<key>PhoneNo</key>
+		<string>07780 666266</string>
+		<key>Lat</key>
+		<string>52.6058</string>
+		<key>Long</key>
+		<string>0.3953</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>50 Landseer Drive
+Downham Market
+Norfolk
+PE38 9NG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hatha Yoga</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Health and Beauty</string>
+		<key>PhoneNo</key>
+		<string>01366 380121</string>
+		<key>Lat</key>
+		<string>52.6044</string>
+		<key>Long</key>
+		<string>0.3752</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Downham Market Methodist Church
+Paradise Road
+Downham Market
+Norfolk
+PE38 9HS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Household Helpers</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Domestic Appliance Repair</string>
+		<key>PhoneNo</key>
+		<string>01603 785 200</string>
+		<key>Lat</key>
+		<string>52.6663</string>
+		<key>Long</key>
+		<string>1.2967</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>300 St Faith's
+Norwich
+Norfolk
+NR6 7BJ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ikan carpet cleaning</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 382615</string>
+		<key>Lat</key>
+		<string>52.5573</string>
+		<key>Long</key>
+		<string>0.3862</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Hilgay
+Downham Market
+Norfolk
+PE38 0JT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>J D Building Services</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 384439</string>
+		<key>Lat</key>
+		<string>52.6093</string>
+		<key>Long</key>
+		<string>0.3781</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>66 Wimbotsham Rd
+Downham Market
+Norfolk
+PE38 9PE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>J D Signs</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Sign Writers</string>
+		<key>PhoneNo</key>
+		<string>01366 377771</string>
+		<key>Lat</key>
+		<string>52.5246</string>
+		<key>Long</key>
+		<string>0.3859</string>
+		<key>email</key>
+		<string>info@jdsigns.net</string>
+		<key>Address</key>
+		<string>Southery Sign Studio
+9 Westgate Street
+Downham Market
+Norfolk
+PE38 0PA</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jessica Fleur</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Florists</string>
+		<key>PhoneNo</key>
+		<string></string>
+		<key>Lat</key>
+		<string>52.5906</string>
+		<key>Long</key>
+		<string>0.3806</string>
+		<key>email</key>
+		<string>jessicafleur@hotmail.co.uk</string>
+		<key>Address</key>
+		<string>22 Beechey Close
+Downham Market
+Norfolk
+PE38 0DH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JS Interiors</string>
+		<key>Description</key>
+		<string>J S Interiors specialise in kitchen, bedroom &amp; bathroom fitting in Downham Market, Norfolk and surrounding areas</string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 378488</string>
+		<key>Lat</key>
+		<string>52.527</string>
+		<key>Long</key>
+		<string>0.3924</string>
+		<key>email</key>
+		<string>info@js-interiors.co.uk</string>
+		<key>Address</key>
+		<string>36 Feltwell Rd
+Downham Market
+Norfolk
+PE38 0NP</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Keylets</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Property Services</string>
+		<key>PhoneNo</key>
+		<string>01366 385588</string>
+		<key>Lat</key>
+		<string>52.6017</string>
+		<key>Long</key>
+		<string>0.3781</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>14 London Rd
+Downham Market
+Norfolk
+PE38 9AW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Keystone</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Property Services</string>
+		<key>PhoneNo</key>
+		<string>01366 385588</string>
+		<key>Lat</key>
+		<string>52.6017</string>
+		<key>Long</key>
+		<string>0.3781</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>14 London Rd
+Downham Market
+Norfolk
+PE38 9AW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>L H Barbers</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 384621</string>
+		<key>Lat</key>
+		<string>52.6046</string>
+		<key>Long</key>
+		<string>0.3711</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>2 Broadlands
+Downham Market
+Norfolk
+PE38 9JB</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lawnboy</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 383323</string>
+		<key>Lat</key>
+		<string>52.6032</string>
+		<key>Long</key>
+		<string>0.3684</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Railway Road
+Downham Market
+Norfolk
+PE38 9EB</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Leigh Clark Autocare Centre</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Automotive</string>
+		<key>PhoneNo</key>
+		<string>01366 387803</string>
+		<key>Lat</key>
+		<string>52.6113</string>
+		<key>Long</key>
+		<string>0.3897</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>220 Broomhill
+Downham Market
+Norfolk
+PE38 9QY</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lighthouse Electrical</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home and Garden</string>
+		<key>PhoneNo</key>
+		<string>01366 383040</string>
+		<key>Lat</key>
+		<string>52.6028</string>
+		<key>Long</key>
+		<string>0.3723</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>84a Bridge Street
+Downham Market
+Norfolk
+PE38 9DJ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lingo Design</string>
+		<key>Description</key>
+		<string>Lingo Design is a graphic design company, offering website, logo and advert design, as well as social media and digital marketing advice. Proud supporter and webmaster of the downhamweb website.</string>
+		<key>Category</key>
+		<string>Graphic Design</string>
+		<key>PhoneNo</key>
+		<string>01366 385925</string>
+		<key>Lat</key>
+		<string>52.60286</string>
+		<key>Long</key>
+		<string>0.3728</string>
+		<key>email</key>
+		<string>info@lingodesign.co.uk</string>
+		<key>Address</key>
+		<string>72 Bridge Street
+Downham Market
+Norfolk
+PE38 9DJ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Little Bees</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>NULL</string>
+		<key>PhoneNo</key>
+		<string></string>
+		<key>Lat</key>
+		<string>52.614</string>
+		<key>Long</key>
+		<string>0.8864</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Live &amp; Let Live</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pubs</string>
+		<key>PhoneNo</key>
+		<string>01366 383933</string>
+		<key>Lat</key>
+		<string>52.6009</string>
+		<key>Long</key>
+		<string>0.3789</string>
+		<key>email</key>
+		<string>haveadrink@downhamlivvy.co.uk</string>
+		<key>Address</key>
+		<string>22 London Rd
+Downham Market
+Norfolk
+PE38 9AW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>London Road &amp; Hollies Veterinary Centre</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pets</string>
+		<key>PhoneNo</key>
+		<string>01366 386655</string>
+		<key>Lat</key>
+		<string>52.7486</string>
+		<key>Long</key>
+		<string>0.4025</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>25 London Road, King's Lynn, Norfolk OR
+Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Morris Armitage</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Property Services</string>
+		<key>PhoneNo</key>
+		<string>01366 383777</string>
+		<key>Lat</key>
+		<string>52.6033</string>
+		<key>Long</key>
+		<string>0.3781</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>36 High Street
+Downham Market
+Norfolk
+PE38 9HH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mr Bees Digital Printing</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Printers</string>
+		<key>PhoneNo</key>
+		<string>01366 382324</string>
+		<key>Lat</key>
+		<string>52.6031</string>
+		<key>Long</key>
+		<string>0.376</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>22 Bridge Street
+Downham Market
+Norfolk
+PE38 9DH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Original Factory Shop</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Retail</string>
+		<key>PhoneNo</key>
+		<string>01282 833222</string>
+		<key>Lat</key>
+		<string>52.6007</string>
+		<key>Long</key>
+		<string>0.359</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>The Original Factory Shop
+Bridge Road
+Downham Market
+Norfolk
+PE38 0AE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Paint Pots</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Gifts &amp; Shopping</string>
+		<key>PhoneNo</key>
+		<string>07956 504018</string>
+		<key>Lat</key>
+		<string>52.6039</string>
+		<key>Long</key>
+		<string>0.3782</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>34a High Street
+Downham Market
+Norfolk
+PE38 9HH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Paul Brown Heating &amp; Plumbing</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 500770</string>
+		<key>Lat</key>
+		<string>52.5886</string>
+		<key>Long</key>
+		<string>0.4502</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Chapel Farm House
+King's Lynn
+Norfolk
+PE33 9RH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Paws Grooming Parlour</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pets</string>
+		<key>PhoneNo</key>
+		<string>07795 516126</string>
+		<key>Lat</key>
+		<string>52.7583</string>
+		<key>Long</key>
+		<string>0.4219</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>56 Wootton Rd
+King's Lynn
+Norfolk
+PE30 4EX</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pearl &amp; Coutts Ltd</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>NULL</string>
+		<key>PhoneNo</key>
+		<string></string>
+		<key>Lat</key>
+		<string>52.6019</string>
+		<key>Long</key>
+		<string>0.377</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Priory Rd
+Downham Market
+Norfolk
+PE38 9JZ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>PKS Construction</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Home Improvements &amp; Maintenance</string>
+		<key>PhoneNo</key>
+		<string>01366 382081</string>
+		<key>Lat</key>
+		<string>52.5918</string>
+		<key>Long</key>
+		<string>0.3807</string>
+		<key>email</key>
+		<string>info@pksconstruction.co.uk</string>
+		<key>Address</key>
+		<string>Sandy Lane Farm
+49 Downham Road
+Downham Market
+Norfolk
+PE38 0DF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Priory Dental Care</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Health and Beauty</string>
+		<key>PhoneNo</key>
+		<string>01366 386666</string>
+		<key>Lat</key>
+		<string>52.6023</string>
+		<key>Long</key>
+		<string>0.3736</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>5 Priory Road
+Downham Market
+Norfolk
+PE38 9JU</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Puggles Childcare</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Childcare</string>
+		<key>PhoneNo</key>
+		<string>07891 330610</string>
+		<key>Lat</key>
+		<string>52.6067</string>
+		<key>Long</key>
+		<string>0.3944</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>1 Linseed Walk
+Downham Market
+Norfolk
+PE38 9UW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Qualified Music Tuition</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Tuition</string>
+		<key>PhoneNo</key>
+		<string>07580 018000</string>
+		<key>Lat</key>
+		<string>52.6117</string>
+		<key>Long</key>
+		<string>0.3892</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Downham Market
+Norfolk
+PE38 9QU</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Reeds Homestore</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Gifts &amp; Shopping</string>
+		<key>PhoneNo</key>
+		<string>01366 382213</string>
+		<key>Lat</key>
+		<string>52.6028</string>
+		<key>Long</key>
+		<string>0.3757</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Nelson House
+Bridge Street
+Downham Market
+Norfolk
+PE38 9DS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ryston Golf Club</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Leisure &amp; Travel</string>
+		<key>PhoneNo</key>
+		<string>01366 382133</string>
+		<key>Lat</key>
+		<string>52.5839</string>
+		<key>Long</key>
+		<string>0.3604</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Sluice Road
+Downham Market
+Norfolk
+PE38 0EG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sew Inn</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Clothing and Shoes</string>
+		<key>PhoneNo</key>
+		<string>01366 387147</string>
+		<key>Lat</key>
+		<string>52.6042</string>
+		<key>Long</key>
+		<string>0.3793</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>1 Lynn Road
+Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Shire Foods</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Food</string>
+		<key>PhoneNo</key>
+		<string>01366 381250</string>
+		<key>Lat</key>
+		<string>52.5989</string>
+		<key>Long</key>
+		<string>0.3657</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Sovereign Way
+Downham Market
+Norfolk
+PE38 9SW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Smiths Footwear</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Clothing and Shoes</string>
+		<key>PhoneNo</key>
+		<string>01366 388883</string>
+		<key>Lat</key>
+		<string>52.6028</string>
+		<key>Long</key>
+		<string>0.375</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>37 Bridge St
+Downham Market
+Norfolk
+PE38 9DW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Stateside Luxury Limousines</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Car Hire / Limousine</string>
+		<key>PhoneNo</key>
+		<string>01366 387777</string>
+		<key>Lat</key>
+		<string>52.5626</string>
+		<key>Long</key>
+		<string>0.3891</string>
+		<key>email</key>
+		<string>http://www.statesidelimos.com/contact.html  (Contact form)</string>
+		<key>Address</key>
+		<string>Crosskeys Riverside House
+Bridge St 
+Hilgay
+Downham Market
+Norfolk
+PE38 0LD</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Steggles Larner</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Property Services</string>
+		<key>PhoneNo</key>
+		<string>01366 383420</string>
+		<key>Lat</key>
+		<string>52.6037</string>
+		<key>Long</key>
+		<string>0.3787</string>
+		<key>email</key>
+		<string>downham@steggleslarner.co.uk</string>
+		<key>Address</key>
+		<string>51 High Street
+Downham Market
+Norfolk
+PE38 9HF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Steve's Coal</string>
+		<key>Description</key>
+		<string>We are a local coal merchant based near Ely in the heart of Cambridgeshire, we aim to meet your delivery requirements by agreeing dates and approximate times of delivery to suit you. We offer a full range of house coal and smokeless fuels at low prices. With over 50 years combined experience within the coal trade, all orders are taken by Rosemary, who has many years experience and can advise you on the many types of fuel available and the best fuels available for your appliance.</string>
+		<key>Category</key>
+		<string>Wholesalers &amp; Suppliers</string>
+		<key>PhoneNo</key>
+		<string>01366 381387</string>
+		<key>Lat</key>
+		<string>52.3995</string>
+		<key>Long</key>
+		<string>0.2624</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Ely
+Cambridgeshire</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Steves Heels &amp; Keys</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Clothing and Shoes</string>
+		<key>PhoneNo</key>
+		<string>01366 384900</string>
+		<key>Lat</key>
+		<string>52.6035</string>
+		<key>Long</key>
+		<string>0.3783</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>41 High Street
+Downham Market
+Norfolk
+PE38 9HF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Studio 56</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Health and Beauty</string>
+		<key>PhoneNo</key>
+		<string>01366 385257</string>
+		<key>Lat</key>
+		<string>52.6029</string>
+		<key>Long</key>
+		<string>0.373</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>56A Bridge Street
+Downham Market
+Norfolk
+PE38 9DJ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Bell Inn</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pubs</string>
+		<key>PhoneNo</key>
+		<string>01366 382173</string>
+		<key>Lat</key>
+		<string>52.5881</string>
+		<key>Long</key>
+		<string>0.3827</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Bell Inn
+2 Ely Rd
+Denver
+Downham Market
+Norfolk
+PE38 0DW</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Business Clinic</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Accountants</string>
+		<key>PhoneNo</key>
+		<string>01366 382503</string>
+		<key>Lat</key>
+		<string>52.6029</string>
+		<key>Long</key>
+		<string>0.3744</string>
+		<key>email</key>
+		<string>info@thebusinessclinic.ltd.uk</string>
+		<key>Address</key>
+		<string>42 Bridge Street
+Downham Market
+Norfolk
+PE38 9DJ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Chequers Inn</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pubs</string>
+		<key>PhoneNo</key>
+		<string>01366 387704</string>
+		<key>Lat</key>
+		<string>52.6191</string>
+		<key>Long</key>
+		<string>0.3935</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>The Chequers
+7 Church Rd
+Wimbotsham
+King's Lynn
+Norfolk
+PE34 3QG</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Jenyns Arms</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pubs</string>
+		<key>PhoneNo</key>
+		<string>01366 383366</string>
+		<key>Lat</key>
+		<string>52.5807</string>
+		<key>Long</key>
+		<string>0.34</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Jenyns Arms
+Denver Sluice
+Downham Market
+Norfolk
+PE38 0EQ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Original Factory Shop</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Clothing and Shoes</string>
+		<key>PhoneNo</key>
+		<string>01366 381458</string>
+		<key>Lat</key>
+		<string>52.6017</string>
+		<key>Long</key>
+		<string>0.3595</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Bridge Road 
+Downham Market
+Norfolk
+PE38 0AE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Print Centre</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Printers</string>
+		<key>PhoneNo</key>
+		<string>01366 383878</string>
+		<key>Lat</key>
+		<string>52.5982</string>
+		<key>Long</key>
+		<string>0.3838</string>
+		<key>email</key>
+		<string>theprintcentre@downhamhigh.norfolk.sch.uk</string>
+		<key>Address</key>
+		<string>Ryston End
+Downham Market
+Norfolk
+PE38 9AY</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Swan Hotel</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Pubs</string>
+		<key>PhoneNo</key>
+		<string>01366 385726</string>
+		<key>Lat</key>
+		<string>52.603</string>
+		<key>Long</key>
+		<string>0.3779</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>29 High Street
+Downham Market
+Norfolk
+PE38 9HF</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Webbs Windows</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Windows and Glazing</string>
+		<key>PhoneNo</key>
+		<string>07947 445153</string>
+		<key>Lat</key>
+		<string>52.5977</string>
+		<key>Long</key>
+		<string>0.3784</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>87 London Road
+Downham Market
+Norfolk
+PE38 9AT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>West Hall Farm Caravan Park &amp; Fishing Lakes</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Accommodation</string>
+		<key>PhoneNo</key>
+		<string>01366 387075</string>
+		<key>Lat</key>
+		<string>52.5866</string>
+		<key>Long</key>
+		<string>0.3725</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>Sluice Road
+Denver
+Downham Market
+Norfolk
+PE38 0DZ</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>White House Bed and Breakfast</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>Accommodation</string>
+		<key>PhoneNo</key>
+		<string>01366 382504</string>
+		<key>Lat</key>
+		<string>52.6103</string>
+		<key>Long</key>
+		<string>0.3853</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>White House
+Downham Market
+Norfolk</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>YourSafetyWorks</string>
+		<key>Description</key>
+		<string></string>
+		<key>Category</key>
+		<string>NULL</string>
+		<key>PhoneNo</key>
+		<string>07918 646830</string>
+		<key>Lat</key>
+		<string>52.6123</string>
+		<key>Long</key>
+		<string>0.2367</string>
+		<key>email</key>
+		<string></string>
+		<key>Address</key>
+		<string>18, Wisbech Road
+Wisbech
+Cambridgeshire
+PE14 8PA</string>
+	</dict>
+</array>
+</plist>
