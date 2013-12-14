@@ -34,10 +34,13 @@
 
 - (void) workOutCategories:(NSArray *)pins {
     NSMutableDictionary *dict = [NSMutableDictionary new];
-    NSLog(@"WORKING CATS");
+    
+    // Start TIMER
+    NSDate *timeBefore = [NSDate new];
+    // ...
     
     for (DWBusinessPoint *p in pins) {
-        if (!p.subtitle) {
+        if (!p.subtitle || [p.subtitle isEqualToString:@""]) {
             NSLog(@"Business has no subtitle: %@", p.title);
             continue;
         }
@@ -50,8 +53,42 @@
         [dict setObject:[NSNumber numberWithUnsignedInteger:count]  forKey:p.subtitle];
     }
     
-    keys = [dict allKeys];
-    values = [dict allValues];
+    NSMutableArray *unorderedKeys = [[NSMutableArray alloc] initWithArray:[dict allKeys]];
+    NSMutableArray *unorderedValues = [[NSMutableArray alloc] initWithArray:[dict allValues]];
+    
+    
+    // Bubble sort
+    int count = [unorderedKeys count];
+    for (int i=0; i<count; i++)
+    {
+        for (int j=count-1; j>0; j--)
+        {
+            NSString *firstString = [unorderedKeys objectAtIndex:j-1];
+            NSString *secondString = [unorderedKeys objectAtIndex:j];
+            
+            unichar fc = [firstString characterAtIndex:0];
+            unichar sc = [secondString characterAtIndex:0];
+            
+            if (sc < fc) {
+                [unorderedKeys setObject:firstString atIndexedSubscript:j];
+                [unorderedKeys setObject:secondString atIndexedSubscript:j-1];
+                
+                NSNumber *a = [unorderedValues objectAtIndex:j-1];
+                NSNumber *b = [unorderedValues objectAtIndex:j];
+                [unorderedValues setObject:a atIndexedSubscript:j];
+                [unorderedValues setObject:b atIndexedSubscript:j-1];
+            }
+        }
+    }
+    
+    keys = unorderedKeys;
+    values = unorderedValues;
+    
+    
+    // ...
+    double timePassed_ms = [timeBefore timeIntervalSinceNow] * -1000.0;
+    NSLog(@"WORKING CATS: %fms", timePassed_ms);
+    // End TIMER
 
 }
 
@@ -106,7 +143,7 @@
 }
 
 - (IBAction)showAll:(id)sender {
-    selectedCategory = @"";
+    selectedCategory = kNoCategorySelected;
     [self backToMap];
 }
 

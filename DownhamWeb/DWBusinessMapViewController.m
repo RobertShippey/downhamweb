@@ -53,7 +53,7 @@
     [mapView removeAnnotations:allPins];
     [mapView addAnnotations:allPins];
     
-    if ([categoryFilter isEqualToString:@""]) {
+    if ([categoryFilter isEqualToString:kNoCategorySelected]) {
         return;
     }
     

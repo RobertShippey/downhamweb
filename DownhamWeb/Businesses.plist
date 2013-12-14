@@ -29,7 +29,7 @@ Norfolk</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Food Suppliers</string>
+		<string>Food</string>
 		<key>PhoneNo</key>
 		<string>01366 386633</string>
 		<key>Lat</key>
@@ -134,7 +134,7 @@ PE38 9DY</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>NULL</string>
+		<string>Retail</string>
 		<key>PhoneNo</key>
 		<string>01366 387180</string>
 		<key>Lat</key>
@@ -156,7 +156,7 @@ PE38 9NL</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>NULL</string>
+		<string>Food</string>
 		<key>PhoneNo</key>
 		<string>07786 363739</string>
 		<key>Lat</key>
@@ -167,7 +167,7 @@ PE38 9NL</string>
 		<string>admin@beauorchid.co.uk</string>
 		<key>Address</key>
 		<string>Stow Bridge
-King's Lynn
+King&apos;s Lynn
 Norfolk
 PE34 3PP</string>
 	</dict>
@@ -236,30 +236,11 @@ PE38 9UJ</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Bound 2 Bounce</string>
-		<key>Description</key>
-		<string></string>
-		<key>Category</key>
-		<string>Event Suppliers</string>
-		<key>PhoneNo</key>
-		<string>08002 335050</string>
-		<key>Lat</key>
-		<string>52.614</string>
-		<key>Long</key>
-		<string>0.8864</string>
-		<key>email</key>
-		<string></string>
-		<key>Address</key>
-		<string>Downham Market
-Norfolk</string>
-	</dict>
-	<dict>
-		<key>Name</key>
 		<string>C &amp; J Electrical</string>
 		<key>Description</key>
 		<string>Satellite and TV Specialists. Installation, Service, Repair and Delivery. Also white goods such as cookers, washing machines, fridge freezers and small appliances.</string>
 		<key>Category</key>
-		<string>Electrical</string>
+		<string>Home and Garden</string>
 		<key>PhoneNo</key>
 		<string>01366 388025</string>
 		<key>Lat</key>
@@ -439,7 +420,7 @@ PE38 9SW</string>
 		<string></string>
 		<key>Address</key>
 		<string>Stow Bardolph
-King's Lynn
+King&apos;s Lynn
 Norfolk
 PE34 3HT</string>
 	</dict>
@@ -470,7 +451,7 @@ PE38 9ET</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>NULL</string>
+		<string>Children</string>
 		<key>PhoneNo</key>
 		<string>01366 383337</string>
 		<key>Lat</key>
@@ -535,7 +516,7 @@ PE38 0LD</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01366 388556</string>
 		<key>Lat</key>
@@ -557,7 +538,7 @@ PE38 9LW</string>
 		<key>Description</key>
 		<string>Our large fleet of coaches for hire caters for daily excursions, private hire, British and continental holidays, airports &amp; ferry runs, weddings, school trips, theatre trips and much, much more!</string>
 		<key>Category</key>
-		<string>Private Coach Hire</string>
+		<string>Automotive</string>
 		<key>PhoneNo</key>
 		<string>01366 381111</string>
 		<key>Lat</key>
@@ -771,7 +752,7 @@ PE38 9QE</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Interiors and Decorating</string>
+		<string>Home and Garden</string>
 		<key>PhoneNo</key>
 		<string>07926 501253</string>
 		<key>Lat</key>
@@ -832,7 +813,7 @@ PE38 9DW</string>
 		<key>Name</key>
 		<string>Evergreen Sheds</string>
 		<key>Description</key>
-		<string>Evergreen Sheds is based on the belief that customers' needs are of the utmost importance. Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.    We would welcome the opportunity to earn your trust and deliver you the best service in the industry.</string>
+		<string>Evergreen Sheds is based on the belief that customers&apos; needs are of the utmost importance. Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.    We would welcome the opportunity to earn your trust and deliver you the best service in the industry.</string>
 		<key>Category</key>
 		<string>Home and Garden</string>
 		<key>PhoneNo</key>
@@ -855,7 +836,7 @@ PE38 9DA</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01945 870670</string>
 		<key>Lat</key>
@@ -894,7 +875,7 @@ Norfolk</string>
 		<key>Name</key>
 		<string>Fraser Dawbarns</string>
 		<key>Description</key>
-		<string>Expert Solicitors in Kings Lynn, Wisbech, Downham Market and March  Fraser Dawbarns Solicitors has developed an excellent reputation for providing quality, no-nonsense advice to businesses, families and individuals across East Anglia and beyond. With offices in Wisbech, King's Lynn, Downham Market and March, the firm is dedicated to client care and provides a client charter which includes same day response and no hidden costs.</string>
+		<string>Expert Solicitors in Kings Lynn, Wisbech, Downham Market and March  Fraser Dawbarns Solicitors has developed an excellent reputation for providing quality, no-nonsense advice to businesses, families and individuals across East Anglia and beyond. With offices in Wisbech, King&apos;s Lynn, Downham Market and March, the firm is dedicated to client care and provides a client charter which includes same day response and no hidden costs.</string>
 		<key>Category</key>
 		<string>Legal Services</string>
 		<key>PhoneNo</key>
@@ -959,7 +940,7 @@ PE38 9SW</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>07858 150628</string>
 		<key>Lat</key>
@@ -1020,32 +1001,11 @@ PE38 9HS</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Household Helpers</string>
-		<key>Description</key>
-		<string></string>
-		<key>Category</key>
-		<string>Domestic Appliance Repair</string>
-		<key>PhoneNo</key>
-		<string>01603 785 200</string>
-		<key>Lat</key>
-		<string>52.6663</string>
-		<key>Long</key>
-		<string>1.2967</string>
-		<key>email</key>
-		<string></string>
-		<key>Address</key>
-		<string>300 St Faith's
-Norwich
-Norfolk
-NR6 7BJ</string>
-	</dict>
-	<dict>
-		<key>Name</key>
 		<string>Ikan carpet cleaning</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home and Garden</string>
 		<key>PhoneNo</key>
 		<string>01366 382615</string>
 		<key>Lat</key>
@@ -1066,7 +1026,7 @@ PE38 0JT</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01366 384439</string>
 		<key>Lat</key>
@@ -1130,7 +1090,7 @@ PE38 0DH</string>
 		<key>Description</key>
 		<string>J S Interiors specialise in kitchen, bedroom &amp; bathroom fitting in Downham Market, Norfolk and surrounding areas</string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01366 378488</string>
 		<key>Lat</key>
@@ -1193,7 +1153,7 @@ PE38 9AW</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01366 384621</string>
 		<key>Lat</key>
@@ -1294,25 +1254,6 @@ PE38 9DJ</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Little Bees</string>
-		<key>Description</key>
-		<string></string>
-		<key>Category</key>
-		<string>NULL</string>
-		<key>PhoneNo</key>
-		<string></string>
-		<key>Lat</key>
-		<string>52.614</string>
-		<key>Long</key>
-		<string>0.8864</string>
-		<key>email</key>
-		<string></string>
-		<key>Address</key>
-		<string>Downham Market
-Norfolk</string>
-	</dict>
-	<dict>
-		<key>Name</key>
 		<string>Live &amp; Let Live</string>
 		<key>Description</key>
 		<string></string>
@@ -1348,7 +1289,7 @@ PE38 9AW</string>
 		<key>email</key>
 		<string></string>
 		<key>Address</key>
-		<string>25 London Road, King's Lynn, Norfolk OR
+		<string>25 London Road, King&apos;s Lynn, Norfolk OR
 Downham Market
 Norfolk</string>
 	</dict>
@@ -1443,7 +1384,7 @@ PE38 9HH</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01366 500770</string>
 		<key>Lat</key>
@@ -1454,7 +1395,7 @@ PE38 9HH</string>
 		<string></string>
 		<key>Address</key>
 		<string>Chapel Farm House
-King's Lynn
+King&apos;s Lynn
 Norfolk
 PE33 9RH</string>
 	</dict>
@@ -1475,7 +1416,7 @@ PE33 9RH</string>
 		<string></string>
 		<key>Address</key>
 		<string>56 Wootton Rd
-King's Lynn
+King&apos;s Lynn
 Norfolk
 PE30 4EX</string>
 	</dict>
@@ -1485,7 +1426,7 @@ PE30 4EX</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>NULL</string>
+		<string>Property Services</string>
 		<key>PhoneNo</key>
 		<string></string>
 		<key>Lat</key>
@@ -1506,7 +1447,7 @@ PE38 9JZ</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Home Improvements &amp; Maintenance</string>
+		<string>Home Improvement</string>
 		<key>PhoneNo</key>
 		<string>01366 382081</string>
 		<key>Lat</key>
@@ -1695,7 +1636,7 @@ PE38 9DW</string>
 		<key>Description</key>
 		<string></string>
 		<key>Category</key>
-		<string>Car Hire / Limousine</string>
+		<string>Automotive</string>
 		<key>PhoneNo</key>
 		<string>01366 387777</string>
 		<key>Lat</key>
@@ -1735,7 +1676,7 @@ PE38 9HF</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Steve's Coal</string>
+		<string>Steve&apos;s Coal</string>
 		<key>Description</key>
 		<string>We are a local coal merchant based near Ely in the heart of Cambridgeshire, we aim to meet your delivery requirements by agreeing dates and approximate times of delivery to suit you. We offer a full range of house coal and smokeless fuels at low prices. With over 50 years combined experience within the coal trade, all orders are taken by Rosemary, who has many years experience and can advise you on the many types of fuel available and the best fuels available for your appliance.</string>
 		<key>Category</key>
@@ -1857,7 +1798,7 @@ PE38 9DJ</string>
 		<string>The Chequers
 7 Church Rd
 Wimbotsham
-King's Lynn
+King&apos;s Lynn
 Norfolk
 PE34 3QG</string>
 	</dict>
@@ -2008,27 +1949,6 @@ PE38 0DZ</string>
 		<string>White House
 Downham Market
 Norfolk</string>
-	</dict>
-	<dict>
-		<key>Name</key>
-		<string>YourSafetyWorks</string>
-		<key>Description</key>
-		<string></string>
-		<key>Category</key>
-		<string>NULL</string>
-		<key>PhoneNo</key>
-		<string>07918 646830</string>
-		<key>Lat</key>
-		<string>52.6123</string>
-		<key>Long</key>
-		<string>0.2367</string>
-		<key>email</key>
-		<string></string>
-		<key>Address</key>
-		<string>18, Wisbech Road
-Wisbech
-Cambridgeshire
-PE14 8PA</string>
 	</dict>
 </array>
 </plist>

@@ -17,7 +17,7 @@
                BlueprintIdentifier = "E14B90181749B77400B9B971"
                BuildableName = "downhamweb.app"
                BlueprintName = "downhamweb"
-               ReferencedContainer = "container:DownhamWeb.xcodeproj">
+               ReferencedContainer = "container:downhamweb.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "E14B90181749B77400B9B971"
             BuildableName = "downhamweb.app"
             BlueprintName = "downhamweb"
-            ReferencedContainer = "container:DownhamWeb.xcodeproj">
+            ReferencedContainer = "container:downhamweb.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -54,7 +54,7 @@
             BlueprintIdentifier = "E14B90181749B77400B9B971"
             BuildableName = "downhamweb.app"
             BlueprintName = "downhamweb"
-            ReferencedContainer = "container:DownhamWeb.xcodeproj">
+            ReferencedContainer = "container:downhamweb.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,7 +72,7 @@
             BlueprintIdentifier = "E14B90181749B77400B9B971"
             BuildableName = "downhamweb.app"
             BlueprintName = "downhamweb"
-            ReferencedContainer = "container:DownhamWeb.xcodeproj">
+            ReferencedContainer = "container:downhamweb.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

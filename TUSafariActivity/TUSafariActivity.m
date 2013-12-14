@@ -46,7 +46,11 @@
 
 - (UIImage *)activityImage
 {
-	return [UIImage imageNamed:@"Safari"];
+    if (SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(@"6.0")) {
+        return [UIImage imageNamed:@"Safari7"];
+    } else {
+        return [UIImage imageNamed:@"Safari"];
+    }
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems

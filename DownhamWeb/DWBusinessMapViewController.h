@@ -9,6 +9,8 @@
 #import "DWViewController.h"
 #import <MapKit/MapKit.h>
 
+#define kNoCategorySelected @"DWNoBusinessCategorySelected"
+
 @interface DWBusinessMapViewController : DWViewController <MKMapViewDelegate>
 @property (strong, nonatomic) IBOutlet MKMapView *mapView;
 
